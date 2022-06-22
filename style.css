@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  background: #203550;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+.ball {
+  height: 4rem;
+  width: 4rem;
+  border-radius: 9999px;
+  position: fixed;
+}/*# sourceMappingURL=style.css.map */

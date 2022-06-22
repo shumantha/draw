@@ -1,0 +1,21 @@
+$darkest: #203550;
+
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  background: $darkest;
+  overflow: hidden;
+  margin: 0;
+  padding: 0; 
+}
+
+.ball {
+  height: 4rem;
+  width: 4rem;
+  border-radius: 9999px;
+  // background: tomato;
+  // border: 5px solid rgba(120,110,180,0.5);
+  position: fixed;
+}
